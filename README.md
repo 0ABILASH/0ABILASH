@@ -7,12 +7,10 @@
 
 ## 🚀 About Me
 
-I'm a Abilash, Front-end Developer passionate about building clean, scalable web apps. This repository is a collection of my projects, experiments, and things I'm learning along the way.
+Hi, I'm Abilash, a Front-end Developer passionate about building modern, scalable, and user-centric web applications. This repository showcases my projects, experiments, and continuous learning as I explore new technologies and refine my development skills.
 
-- 🔭 Currently working on: **[Project name]**
-- 🌱 Currently learning: **Back-End Development**
-- 💬 Ask me about: **[Your expertise]**
-- 📫 Reach me at: **mailtoabilashy@gmail.com**
+-  Currently learning: **Back-End Development**
+-  Reach me at: **mailtoabilashy@gmail.com**
 
 ## 🛠️ Tech Stack
 
@@ -49,7 +47,7 @@ Short description of what this project does and why it's interesting.
 
 Feel free to reach out for collaborations, questions, or just to say hi!
 
-- Portfolio: [yourwebsite.com](abilash-dev.onrender.com)
+- Portfolio: [abilash-dev.onrender.com](abilash-dev.onrender.com)
 - LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/ABILASHY)
 - Email: mailtoabilashy@gmail.com
 
