@@ -1,18 +1,18 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm ABLASH 👋
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=flat-square)](https://yourwebsite.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=flat-square&logo=twitter)](https://twitter.com/yourhandle)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail)](mailto:you@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=flat-square)](https://abilash-dev.onrender.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/ABILASHY)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=flat-square&logo=twitter)](https://twitter.com/Abilashy)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail)](mailto:mailtoabilashy@gmail.com)
 
 ## 🚀 About Me
 
-I'm a [your role, e.g. "Full-Stack Developer"] passionate about [your interests, e.g. "building clean, scalable web apps"]. This repository is a collection of my projects, experiments, and things I'm learning along the way.
+I'm a Abilash, Front-end Developer passionate about building clean, scalable web apps. This repository is a collection of my projects, experiments, and things I'm learning along the way.
 
 - 🔭 Currently working on: **[Project name]**
-- 🌱 Currently learning: **[Skill/Tech]**
+- 🌱 Currently learning: **Back-End Development**
 - 💬 Ask me about: **[Your expertise]**
-- 📫 Reach me at: **you@example.com**
+- 📫 Reach me at: **mailtoabilashy@gmail.com**
 
 ## 🛠️ Tech Stack
 
@@ -49,9 +49,9 @@ Short description of what this project does and why it's interesting.
 
 Feel free to reach out for collaborations, questions, or just to say hi!
 
-- Portfolio: [yourwebsite.com](https://yourwebsite.com)
-- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- Email: you@example.com
+- Portfolio: [yourwebsite.com](abilash-dev.onrender.com)
+- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/ABILASHY)
+- Email: mailtoabilashy@gmail.com
 
 ---
-⭐️ From [yourusername](https://github.com/yourusername) — thanks for stopping by!
+⭐️ From [ABILASH](https://github.com/0abilash) — thanks for stopping by!
