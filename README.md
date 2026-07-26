@@ -19,29 +19,6 @@ Hi, I'm Abilash, a Front-end Developer passionate about building modern, scalabl
 **Tools:** Git, Docker, ...
 **Databases:** MongoDB, PostgreSQL, ...
 
-## 📂 Featured Projects
-
-### [Project Name 1](https://github.com/yourusername/project1)
-Short description of what this project does and why it's interesting.
-**Tech used:** React, Node.js, MongoDB
-
-### [Project Name 2](https://github.com/yourusername/project2)
-Short description of what this project does and why it's interesting.
-**Tech used:** Python, Flask
-
-### [Project Name 3](https://github.com/yourusername/project3)
-Short description of what this project does and why it's interesting.
-**Tech used:** Java, Spring Boot
-
-## 📊 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
-
-## 🏆 Certifications / Achievements
-
-- [Certification/Achievement 1]
-- [Certification/Achievement 2]
 
 ## 📫 Let's Connect
 
