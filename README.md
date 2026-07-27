@@ -25,7 +25,7 @@ Hi, I'm Abilash, a Front-end Developer passionate about building modern, scalabl
 Feel free to reach out for collaborations, questions, or just to say hi!
 
 - Portfolio: [abilash-dev.onrender.com](abilash-dev.onrender.com)
-- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/ABILASHY)
+- LinkedIn: [linkedin.com](https://linkedin.com/in/ABILASHY)
 - Email: mailtoabilashy@gmail.com
 
 ---
